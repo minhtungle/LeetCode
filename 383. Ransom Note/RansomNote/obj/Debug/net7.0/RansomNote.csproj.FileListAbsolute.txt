@@ -1,0 +1,14 @@
+D:\LeetCode\383. Ransom Note\RansomNote\bin\Debug\net7.0\RansomNote.exe
+D:\LeetCode\383. Ransom Note\RansomNote\bin\Debug\net7.0\RansomNote.deps.json
+D:\LeetCode\383. Ransom Note\RansomNote\bin\Debug\net7.0\RansomNote.runtimeconfig.json
+D:\LeetCode\383. Ransom Note\RansomNote\bin\Debug\net7.0\RansomNote.dll
+D:\LeetCode\383. Ransom Note\RansomNote\bin\Debug\net7.0\RansomNote.pdb
+D:\LeetCode\383. Ransom Note\RansomNote\obj\Debug\net7.0\RansomNote.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\383. Ransom Note\RansomNote\obj\Debug\net7.0\RansomNote.AssemblyInfoInputs.cache
+D:\LeetCode\383. Ransom Note\RansomNote\obj\Debug\net7.0\RansomNote.AssemblyInfo.cs
+D:\LeetCode\383. Ransom Note\RansomNote\obj\Debug\net7.0\RansomNote.csproj.CoreCompileInputs.cache
+D:\LeetCode\383. Ransom Note\RansomNote\obj\Debug\net7.0\RansomNote.dll
+D:\LeetCode\383. Ransom Note\RansomNote\obj\Debug\net7.0\refint\RansomNote.dll
+D:\LeetCode\383. Ransom Note\RansomNote\obj\Debug\net7.0\RansomNote.pdb
+D:\LeetCode\383. Ransom Note\RansomNote\obj\Debug\net7.0\RansomNote.genruntimeconfig.cache
+D:\LeetCode\383. Ransom Note\RansomNote\obj\Debug\net7.0\ref\RansomNote.dll
